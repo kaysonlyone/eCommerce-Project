@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, 
+                   initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="contact.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav>
+        <div class="nav-items">
+
+            <div class="my-logo">
+                <img src="Screenshot_2024-05-08_at_4.52.25_PM-removebg-preview (2).png">
+            </div>
+            <!-- <div class ="logo">Floral Smiles</div>        -->
+            <ul>
+                <li><a href="index.html">Home </a> </li>
+                <li><a href="shop.html">Shop </a></li>
+                <li><a href="contact.html"> Get In Touch!</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="wrapper">
+        <h2>Contact us</h2>
+        <div id="error_message">
+
+        </div>
+        <form name="myform" id="myform" onsubmit="validate()">
+            <div class="input_field">
+                <input name="name" type="text" placeholder="Name" id="name">
+            </div>
+            <div class="input_field">
+                <input name="Last Name" type="text" placeholder="Last Name" id="Last Name">
+            </div>
+            <div class="input_field">
+                <input name="phone" type="text" placeholder="Phone" id="phone">
+            </div>
+            <div class="input_field">
+                <input name="email" type="text" placeholder="Email" id="email">
+            </div>
+            <div class="input_field">
+                <textarea placeholder="Got Feedback? Leave us a message..." id="message">
+                </textarea>
+            </div>
+            <div class="btn">
+                <button type="submit">click</button>
+            </div>
+        </form>
+    </div>
+   <script src="contact.js"></script>
+</body>
+<footer> 
+    <div class="icons">
+    <a href= "https://www.linkedin.com/in/kayla12/"><img  src="linkedin.png"  height="25" width="25"></a>
+    <a href="https://www.instagram.com/kaysonlyone/"><img  src="instagram.png"  height="25" width="25"></a>
+   <a href="https://www.facebook.com/kayla.lorenzo.739/"><img  src="facebook.png"  height="25" width="25"></a>
+</div>
+
+
+    <div class= "footer-container">
+        <ul> 
+            <li><a href= "index.html">Home</a></li>
+            <li><a href= "shop.html">Shop</a></li>
+            <li><a href= "contact.html">Get In Touch</a></li>
+        </ul>
+    </div>
+    <div class="footer-bottom">
+        <p class="copyright"> Copyright &copy; 2024 Floral Smiles</p>
+    </div>
+</footer>
+
+</html>
