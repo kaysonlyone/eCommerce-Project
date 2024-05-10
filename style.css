@@ -1,0 +1,204 @@
+*{
+  padding:0;
+  margin:0; 
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body{
+  font-family:'Times New Roman', Times, serif
+  height: 100vh
+}
+
+ nav {
+  background:white;
+  height: 80px;
+  width: 100%;
+
+  a {
+    color: #cc3d77;
+    font-weight: bold;
+    font-family:
+    border-radius: 10px;
+
+  }
+  a:hover {
+    color: black;
+    border-radius: 10px;
+  }
+
+ }
+ .my-logo img  {
+position: absolute;
+margin-top: 5px;
+top:1%;
+left:2%;
+height: 6vh;
+width: 20vw;
+/* margin-top: 10px; */
+ }
+
+ /* .logo {
+  color: rgb(244, 61, 149);
+  font-size: 30px;
+  font-weight: bold;
+  width: 30%; */
+
+ .paragraph{
+  width: 700px;
+ }
+
+ nav ul {
+  float: right;
+  margin-right:20px;
+ }
+
+ nav ul li {
+  display:inline-block;
+  margin: 0 5px;
+  font-size: x-large;
+  
+ }
+
+ .nav-items {
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ }
+
+.body-section {
+  height: 60rem;
+  background-image: url(spring-tree-flowers-8510537_1920.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+
+ .hero-header {
+  font-size: 60px;
+  color: rgb(42, 40, 41);
+ }
+
+
+ .my-logo{
+ background-color: yellow;
+  box-shadow: 20px 20px black;
+ }
+
+ .body-section {
+  display: flex;
+  flex-direction: column;
+text-align: left;
+padding-top: 350px;
+padding-left: 40px;
+
+.paragraph {
+  padding-top:10px;
+}
+  
+
+    
+ }
+
+ h3 {
+  font-size: 30px;
+  color:#cc3d77;
+ }
+ .button-key {
+  display: flex;
+  justify-content: cneter;
+  align-items: center;
+  position: relative;
+  margin-top: 20px;
+  width: 150px;
+  height: 50px;
+  border-radius: 20px;
+  padding-left: 10px;
+  text-align: center;
+  background-color: rgb(40, 40, 42);
+  color: whitesmoke;
+  margin-bottom: 10px;
+  border-radius: 30px;
+  font-size: 30px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+ }
+ .button-key:hover {
+  background-color:#cc3d77;
+ }
+
+
+ p {
+  font-size: 20px;
+ }
+ 
+
+ 
+
+ 
+ footer {
+  display: flex;
+  flex-direction: column;
+  position:absolute;
+  width: 100%;
+
+ }
+ 
+
+ .footer-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  background-color:white;
+ }
+
+footer li{
+  list-style: none;
+font-size: 20px;
+background-color: white;
+
+a {
+  color: #cc3d77;
+  background-color: white;
+  font-family:'Times New Roman', Times, serif
+  font-weight: bold;
+}
+
+}
+
+footer ul{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  font-weight: bold;
+ 
+}
+
+
+ .footer-bottom{
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+ }
+ .icons img {
+ background-color: white;
+
+
+ }
+ .icons {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+word-spacing: 10px;
+padding-top: 10px;
+background-color: white;
+
+
+ }
+
+.copyright {
+  font-size: 15px;
+}

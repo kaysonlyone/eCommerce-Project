@@ -1,0 +1,75 @@
+[
+    {
+        "name": "The Garden Club",
+        "price": 87.99,
+        "description": "Embrace the serene beauty of The Garden Club, a delicate bouquet with a harmonious blend of soft-hued roses and pristine white blooms. ",
+        "img": "./images/aesthetic.jpg"
+    },
+    {
+        "name": "The Peony Clouds",
+        "price": 87.99,
+        "description": "The Peony Clouds bouquet is a serene cascade of all-white peonies, evoking the beauty of drifting clouds on a spring day. ",
+        "img": "./images/clouds.webp"
+    },
+    {
+        "name": "The parade",
+        "price": 59.99,
+        "description": "One of our happiest and most exciting arrangements. The Parade has the same vitality and liveliness as a summertime parade that grabs everyone’s attention and puts a smile on their face!",
+        "img": "./images/colorful.webp"
+        
+    },
+    {
+        "name": "Afternoon Breeze",
+        "price": 84.99,
+        "description": "Orange, pink, and white roses bring a vibrant burst of color. Paired with pink and white peonies. The roses add a pop of color while the peonies bring softness and  making it a delightful sight for any beautiful afternoon.",
+        "img": "./images/colorroses.webp"
+    },
+    {
+        "name": "The Coquette",
+        "price": 64.99,
+        "description": "A dance of delicate pinks and blushes, the Coquette whispers tales of enchantment. Spray roses twirl beside blushing hypericum berries, inviting admiration.",
+        "img": "./images/coquette.webp"
+    },
+    {
+        "name": "The Dreamscape",
+        "price": 149.99,
+        "description": "A bold pairing of pink and peach florals in a custom-designed cerulean vase. Let the Dreamscape mark your celebration and be a timeless conversation piece in your space.",
+        "img": "./images/dreamscape.webp"
+    },
+    {
+        "name": "Moonlight",
+        "price": 84.99,
+        "description": "A bouquet featuring purple flowers, pink roses, and white plants embodies the serene beauty of the night. With deep hues reminiscent of twilight, delicate roses evoking sunset, and white blooms symbolizing moonlight, it's a stunning tribute to the tranquility of evening.",
+        "img": "./images/fantasy.webp"
+    },
+    {
+        "name": "Pinky Peony",
+        "price": 84.99,
+        "description": "Pink peonies are soft, delicate blooms with gentle pink hues, ranging from blush to deeper shades. Their lush, ruffled petals create an opulent and elegant display, perfect for celebrations or simply brightening any space with their enchanting presence.",
+        "img": "./images/pinky.webp"
+    },
+    {
+        "name": "The Good Vibes",
+        "price": 59.99,
+        "description": "Consider this bouquet our way of reminding you that it’s okay not to be on top of the world all the time. We believe that everyone deserves some happiness regardless of where you find yourself on life’s roller coaster.",
+        "img": "./images/goodvibes.webp"
+    },
+    {
+        "name": "The Peony Bliss",
+        "price": 129.99,
+        "description": "Dive into moments of serenity with 'Peony Bliss', a bouquet where dark peonies blend seamlessly with twilight tones. ",
+        "img": "./images/sunset.webp"
+    },
+    {
+        "name": "The Sunshower",
+        "price": 84.99,
+        "description": "Each spray rose in this bouquet is like a drop of sunshine after a light rain—bright and refreshing. It’s the perfect pick-me-up on a cloudy day or a joyful burst for those already basking in the light.",
+        "img": "./images/sunshine.webp"
+    },
+    {
+        "name": "The Peony Tulips",
+        "price": 57.99,
+        "description": "Not to be confused with actual peony flowers, this variety of double-flowered tulips boasts an abundance of petals, resembling the lush fullness of peonies. ",
+        "img": "./images/tulips.webp"
+    }
+]
